@@ -6,4 +6,4 @@ sh startup.sh -m standalone
 ```
 sh shutdown.sh
 ```
-（cd到nacos的文件夹（在Downloads）
+（cd到nacos的文件夹（在Downloads））
